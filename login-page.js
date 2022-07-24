@@ -11,7 +11,7 @@ loginButton.addEventListener("click", (e) => {
     if (password === "penis") {        
         alert("You have successfully logged in.");
 //        location.reload();
-        location.assign("http://www.google.com");
+        location.assign("https://www.jotform.com/app/221935408468160");
     } else {
         loginErrorMsg.style.opacity = 1;
     }
