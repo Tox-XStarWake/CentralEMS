@@ -13,7 +13,7 @@ html {
   }
   
   #main-holder {
-    width: 35%;
+    width: 75%;
     height: 70%;
     display: grid;
     justify-items: center;
