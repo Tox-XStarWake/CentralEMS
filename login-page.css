@@ -13,7 +13,7 @@ html {
   }
   
   #main-holder {
-    width: 50%;
+    width: 35%;
     height: 70%;
     display: grid;
     justify-items: center;
@@ -79,4 +79,3 @@ html {
     cursor: pointer;
     outline: none;
   }
-  
