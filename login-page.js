@@ -8,9 +8,10 @@ loginButton.addEventListener("click", (e) => {
     const password = loginForm.password.value;
 
 //    if (username === "user" && password === "web_dev") {
-    if (password === "web_dev") {        
+    if (password === "penis") {        
         alert("You have successfully logged in.");
-        location.reload();
+//        location.reload();
+        location.assign("http://www.google.com");
     } else {
         loginErrorMsg.style.opacity = 1;
     }
