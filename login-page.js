@@ -8,7 +8,7 @@ loginButton.addEventListener("click", (e) => {
     const password = loginForm.password.value;
 
 //    if (username === "user" && password === "web_dev") {
-    if (password === "penis") {        
+    if (password === "Central2004") {        
         alert("You have successfully logged in.");
 //        location.reload();
         location.assign("https://www.jotform.com/app/221935408468160");
